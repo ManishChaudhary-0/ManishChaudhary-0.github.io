@@ -1,0 +1,19 @@
+body{
+    background: rgb(255, 184, 90)
+;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2{
+    color: rgb(9, 66, 255);
+}
+
+p{
+    color: black;
+}
